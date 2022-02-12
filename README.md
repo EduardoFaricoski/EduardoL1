@@ -1,5 +1,5 @@
 ## Hi 👋, I'm edu
-ola tenho 1515 years e atualmente es
+ola tenho 15years e atualmente es
 tou estudando js
  <div>
   <a href="https://github.com/edu6282">
@@ -20,7 +20,7 @@ tou estudando js
  
 <div> 
   <a href="https://www.youtube.com/channel/UCBD_g3YaJXirewzL67ydskw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/GB7gPEuwSt" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+<a href="https://discord.gg/zN5RZzZGY6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
