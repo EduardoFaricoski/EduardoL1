@@ -1,5 +1,6 @@
-## Olá! Meu nome é eduardo, mas pode me chamar de edu. 😃
-
+## Hi 👋, I'm edu
+ola tenho 1515 years e atualmente es
+tou estudando js
  <div>
   <a href="https://github.com/edu6282">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edu6282&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
