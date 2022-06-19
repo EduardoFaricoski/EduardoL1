@@ -1,6 +1,5 @@
-## Hi 👋, I'm edu
-ola tenho 16years e atualmente es
-tou estudando FrontEnd
+## Eduardo L
+ola tenho 16years e atualmente estou estudando FrontEnd 
  <div>
   <a href="https://github.com/edu6282">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edu6282&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
