@@ -1,15 +1,29 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+### Experiência de trabalho
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-### Faça um breve apresentação sobre você
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
+**Software Engineer** \
+[**SpaceX**](https://www.spacex.com/) • Full-time \
+Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
+Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
+<br/>
 
-<p>
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
 
-Estudando/trabalhando na **nome do lugar**<br/>
+**Frot-end Developer (Jr)** \
+[**Rocketseat**](https://rocketseat.com.br/) • Contract \
+Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
+Projetos em destaque: [Ignite](), [Bootcamp]()
+<br/>
 
-Eu sou desenvolvedor **sua área**.
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
 
+**Software Engineer** \
+[**Nubank**](https://nubank.com.br/) • Contract \
+Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Projetos em destaque: [App](https://nubank.com.br/)
+<br/>
+<br/>
 
-</p>
-<hr>
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-username/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
