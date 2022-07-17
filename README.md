@@ -1,6 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
+::-webkit-scrollbar {
+    width: 0px;
+}
 
 ```kotlin
 object **SEU NOME** {
@@ -9,7 +12,6 @@ object **SEU NOME** {
  
  val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
-
 }
 ```
 
