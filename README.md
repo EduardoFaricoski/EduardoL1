@@ -7,6 +7,6 @@ Eduardo, ou mais conhecido como edu, desenvolvedor front-end. apaixonado por des
 #### Caso queira falar comigo:
 
 <a href="https://discord.gg/6ZN9pasZC7" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=white&link=https://discord.gg/6ZN9pasZC7"/>
+    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-#6551f3&logo=Discord&logoColor=#FFF&link=https://discord.gg/6ZN9pasZC7"/>
   </a>
 </p>
