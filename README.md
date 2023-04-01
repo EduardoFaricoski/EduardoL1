@@ -2,7 +2,7 @@
 
 ## Hello World ☕
 
-eduardo, ou mais conhecido como edu, desenvolvedor front-end. apaixonado por desenvolvimento web e design.
+Eduardo, ou mais conhecido como edu, desenvolvedor front-end. apaixonado por desenvolvimento web e design.
 
 #### Caso queira falar comigo:
 
