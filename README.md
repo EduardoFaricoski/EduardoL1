@@ -1,4 +1,6 @@
-<img align="right" height="300em" src="https://media.discordapp.net/attachments/1064894230503358595/1114680424866779215/avatar.png?width=531&height=531"/>
+<img align="right" height="400em" filter="grayscale(1)" src="https://media.discordapp.net/attachments/1064894230503358595/1114680424866779215/avatar.png?width=531&height=531"/>
+
+## S O B R E
 
 💻・**Desenvolvedor FrontEnd**
 
@@ -33,7 +35,7 @@
 
 <br><br>
 
-## CONTATO
+## C O N T A T O
 
 <p align="left" style="background:yellow">
 <a href="https://www.instagram.com/eduardo__lazarotto/" target="_blank">
