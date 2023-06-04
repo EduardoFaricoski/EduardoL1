@@ -19,11 +19,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br><br>
-
-## CONTATO
-
-<p align="left" style="background:yellow">
-<a href="https://www.instagram.com/eduardo__lazarotto/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-eduzin-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
