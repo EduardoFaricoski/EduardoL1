@@ -1,4 +1,4 @@
-<img align="right" height="400em" filter=grayscale(1) src="https://media.discordapp.net/attachments/1064894230503358595/1114680424866779215/avatar.png?width=531&height=531"/>
+<img align="right" height="400em" src="https://media.discordapp.net/attachments/1121198642196381716/1186493856921948190/1.png?ex=65937383&is=6580fe83&hm=b2f7822e8ffc26501d309070a0bf67850483fc6e50029780d33588b312f4813f&=&format=webp&quality=lossless"/>
 
 ## SOBRE
 
@@ -6,7 +6,7 @@
 
 💻・**Designer**
 
-💼・**Working on Project Network**
+💼・**Working on SpaceNui's**
 
 <br>
 
