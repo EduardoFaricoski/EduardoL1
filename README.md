@@ -10,7 +10,7 @@
 
 <br>
 
-## 📝・ Tecnologias que eu uso no meu dia
+## 📝・ Tecnologias que uso no meu dia a dia
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
