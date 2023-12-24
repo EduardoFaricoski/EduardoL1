@@ -1,4 +1,4 @@
-<img align="right" height="400em" src="https://media.discordapp.net/attachments/1121198642196381716/1186493856921948190/1.png?ex=65937383&is=6580fe83&hm=b2f7822e8ffc26501d309070a0bf67850483fc6e50029780d33588b312f4813f&=&format=webp&quality=lossless"/>
+<img align="right" height="400em" src="https://media.discordapp.net/attachments/1188310101606535208/1188320498820583494/1.png?ex=659a18b4&is=6587a3b4&hm=7e7353c5b7d47003de15f5a798c16b9c774cf6c7b10679985362991db51ea341&=&format=webp&quality=lossless"/>
 
 ## SOBRE
 
